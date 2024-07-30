@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/it_car"
+        android:title= "Electric Car"
+        android:icon="@drawable/ic_electric_car_3"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/it_bike"
+        android:title= "Electric Bike"
+        android:icon="@drawable/ic_electric_bike_3"
+        app:showAsAction="ifRoom"/>
+</menu>
